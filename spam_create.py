@@ -10,8 +10,3 @@ while t <=1:
      x += 1
      for i in range(1):
           f.write("aristocrat doesn't belong")
-
-
-
-
-
