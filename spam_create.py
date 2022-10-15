@@ -8,4 +8,4 @@ while t <=1:
      f = open(f"{file_name}%s.txt" % x, 'w+')
      x += 1
      for i in range(1):
-          f.write("aristocrat doesn't belong")
+          f.write("Luciano ✗ don't fw da mice")
